@@ -1,3 +1,7 @@
+> **_IMPORTANT NOTE:_**  This fork implements a quick fix to use VonMisesFisherMixture.
+> Works with sklearn=1.6.1.
+> SphericalKMeans is not supported.
+> 
 # Clustering on the unit hypersphere in scikit-learn
 
 <img src="images/sphere_w_clusters.png" alt="Mixture of von Mises Fisher" width="400">
